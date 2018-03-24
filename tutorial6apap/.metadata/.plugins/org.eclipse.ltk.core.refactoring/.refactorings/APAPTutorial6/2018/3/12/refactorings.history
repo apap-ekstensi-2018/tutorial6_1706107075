@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;apap.junit.service&apos; to &apos;com.example.junit.service&apos;&#x0A;- Original project: &apos;APAPTutorial6&apos;&#x0A;- Original element: &apos;APAPTutorial6/src/main/java/apap.junit.service&apos;&#x0A;- Renamed element: &apos;APAPTutorial6/src/main/java/com.example.junit.service&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;apap.junit.service&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;apap.junit.service" name="com.example.junit.service" qualified="false" references="true" stamp="1521553390529" textual="false" version="1.0"/>
+</session>
